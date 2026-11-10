@@ -1,0 +1,4 @@
+strs = input().split()
+res = ""
+
+
